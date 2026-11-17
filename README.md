@@ -76,6 +76,10 @@ Siga os passos abaixo para rodar o ambiente de desenvolvimento em sua máquina:
 * `POST /v1/category` — Cadastro de categoria *(Admin)*
 * `PUT /v1/category/:id` — Atualização de categoria *(Admin)*
 * `DELETE /v1/category/:id` — Remoção de categoria *(Admin)*
+
+### 📦 Produtos
+* `GET /v1/product/search` — Listagem e filtros de produtos
+* `GET /v1/product/:id` — Detalhes completos do produto
 * `POST /v1/product` — Cadastro de novo produto *(Admin)*
 * `PUT /v1/product/:id` — Atualização de produto *(Admin)*
 * `DELETE /v1/product/:id` — Remoção de produto *(Admin)*
