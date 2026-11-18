@@ -89,3 +89,12 @@ Siga os passos abaixo para rodar o ambiente de desenvolvimento em sua máquina:
 ## 👥 Autoria e Equipe
 
 Projeto desenvolvido de forma colaborativa para a entrega institucional, unindo rigor técnico, boas práticas de API REST e componentização back-end de mercado.
+
+---
+
+## 👥 Colaboração & Engenharia
+
+Projeto desenvolvido com foco em arquitetura limpa, segurança e boas práticas de engenharia de software:
+
+* **Desenvolvimento & Arquitetura:** Larissa Talmag
+* **Code Review & Pair Programming:** Mateus Talmag
