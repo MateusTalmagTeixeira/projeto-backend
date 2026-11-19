@@ -98,3 +98,5 @@ Projeto desenvolvido com foco em arquitetura limpa, segurança e boas práticas 
 
 * **Desenvolvimento & Arquitetura:** Larissa Talmag
 * **Code Review & Pair Programming:** Mateus Talmag
+
+- **Revisão Técnica & Testes da API:** Validado por Mateus Talmag.
