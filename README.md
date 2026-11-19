@@ -88,6 +88,7 @@ Siga os passos abaixo para rodar o ambiente de desenvolvimento em sua máquina:
 
 ## 👥 Autoria e Equipe
 
+<<<<<<< HEAD
 Projeto desenvolvido de forma colaborativa para a entrega institucional, unindo rigor técnico, boas práticas de API REST e componentização back-end de mercado.
 
 ---
@@ -100,3 +101,12 @@ Projeto desenvolvido com foco em arquitetura limpa, segurança e boas práticas 
 * **Code Review & Pair Programming:** Mateus Talmag
 
 - **Revisão Técnica & Testes da API:** Validado por Mateus Talmag.
+=======
+Projeto desenvolvido de forma colaborativa em dupla (**Larissa Talmag** e **Mateus Talmag**) para a entrega institucional, com atuação conjunta em todas as etapas da API RESTful, arquitetura, banco de dados, segurança, testes e documentação:
+
+* **Arquitetura da API & Organização (MVC / Camadas):** Larissa Talmag & Mateus Talmag
+* **Desenvolvimento Back-End, Rotas & Regras de Negócio:** Larissa Talmag & Mateus Talmag
+* **Banco de Dados, Modelagem & Migrations (MySQL / Sequelize):** Larissa Talmag & Mateus Talmag
+* **Autenticação, Segurança & Tratamento de Erros (JWT / Bcrypt):** Larissa Talmag & Mateus Talmag
+* **Testes Automatizados, Code Review & Documentação (Swagger / README):** Larissa Talmag & Mateus Talmag
+>>>>>>> 3112730 (docs: unifica autoria conjunta da dupla no README)
